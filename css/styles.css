@@ -13,7 +13,7 @@ body {
     background-color: aliceblue;
 }
 
-.results {
+#results {
     height: 20px;
-    background-color: yellow;
+    background-color: lightgrey;
 }
