@@ -1,5 +1,3 @@
-
-
 window.addEventListener('load', () => {
 
     const rate = .20;
