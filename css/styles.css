@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    border: 1px solid grey;
+    width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    background-color: aliceblue;
+}
+
+.results {
+    height: 20px;
+    background-color: yellow;
+}
