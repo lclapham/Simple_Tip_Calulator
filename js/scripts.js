@@ -14,6 +14,5 @@ window.addEventListener('load', () => {
         tipResult = $('amount').value * rate
         $('results').innerHTML = "You should tip $"+tipResult.toFixed(2)+" on $"+$('amount').value;
     })
-    console.log($('amount').value)
-
+   
 });
